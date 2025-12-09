@@ -1,0 +1,7 @@
+{
+  "name": "VibeCast AI",
+  "description": "An AI-powered weather stylist that gives you outfit and activity recommendations based on real-time weather data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
